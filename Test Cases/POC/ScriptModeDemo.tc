@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptModeDemo</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>45192</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>8e03c7ec-4961-490d-9c21-8b984fc0f919</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3edc19a9-c267-4c0d-a142-59dbab468bf1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin\t'</defaultValue>
+      <description></description>
+      <id>3edc19a9-c267-4c0d-a142-59dbab468bf1</id>
+      <masked>false</masked>
+      <name>u1</name>
+   </variable>
+</TestCaseEntity>
