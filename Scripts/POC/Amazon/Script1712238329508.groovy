@@ -21,19 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.in/')
 
-WebUI.click(findTestObject('Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in'))
+WebUI.click(findTestObject('Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_Fresh'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Amazon Sign In/input_Email or mobile phone number_email'), '8460326503')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Amazon Sign In/input_Forgot Password_password'), 'sqm8B81PCps6GpT83zRHAQ==')
-
-WebUI.setText(findTestObject('Object Repository/Page_Authentication required/input_Enter the letters and numbers above_c_12ed04'), 
-    'cctd24')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Authentication required/input_Enter the letters and numbers above_c_12ed04'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/Page_Amazon/input_For your security, we have sent the c_58f34f'), '759411')
-
-WebUI.click(findTestObject('Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign Out'))
+WebUI.click(findTestObject('Object Repository/Page_Amazon.in Amazon Fresh/button_1996-2024, Amazon.com, Inc. or its a_570df3'))
 
