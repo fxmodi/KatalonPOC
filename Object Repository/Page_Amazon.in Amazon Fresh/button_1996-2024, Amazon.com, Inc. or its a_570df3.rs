@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_1996-2024, Amazon.com, Inc. or its a_570df3</name>
+   <tag></tag>
+   <elementGuidId>923d20fb-7376-4d8c-83d1-a299983995de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-button-close-a11y.a-button-close.a-declarative.a-button-a11y-top-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-popover-1']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ca91641-34e7-4053-a4b0-5cd60cf96c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-popover-close</value>
+      <webElementGuid>ddcd1be8-8faa-4269-ae97-9d6179cf1f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> a-button-close-a11y a-button-close a-declarative a-button-a11y-top-right</value>
+      <webElementGuid>53f6f32e-3f76-4302-a446-65214ae395cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>2561dc75-cb90-476e-98a7-5b59c59b830b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-popover-1&quot;)/div[@class=&quot;a-popover-wrapper&quot;]/button[@class=&quot;a-button-close-a11y a-button-close a-declarative a-button-a11y-top-right&quot;]</value>
+      <webElementGuid>fe22439f-12e1-4f84-a9b6-bc018e735429</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-popover-1']/div/button</value>
+      <webElementGuid>ea87dc25-ee92-4db4-affb-87fc25d95f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 1996-2024, Amazon.com, Inc. or its affiliates'])[1]/following::button[1]</value>
+      <webElementGuid>3aadea8a-79e5-466a-9d43-462febcef989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest-Based Ads'])[1]/following::button[1]</value>
+      <webElementGuid>21f40fa6-8f62-4f1a-b246-e81ca3ba8eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feature requested to not be shown'])[1]/preceding::button[1]</value>
+      <webElementGuid>295da98b-aead-4dad-aba2-760c51cfd511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip'])[1]/preceding::button[1]</value>
+      <webElementGuid>9dcae7e5-003e-4108-825d-9384dd9e8492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>4e0e146e-937f-4669-b33e-4e1a4fe48335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

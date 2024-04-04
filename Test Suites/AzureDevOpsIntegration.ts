@@ -34,15 +34,15 @@
    <testCaseLink>
       <guid>44ffee7d-8807-4805-9e99-168698287cca</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/POC/Express_Local</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fa13d0e8-d93e-4d2a-98f0-99390e5ffc14</guid>
+      <guid>43fa734e-e695-4a59-bafa-6e2b6bdd014e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POC/amazon</testCaseId>
+      <testCaseId>Test Cases/POC/Amazon</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
