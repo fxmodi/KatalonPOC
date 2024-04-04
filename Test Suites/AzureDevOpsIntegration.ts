@@ -21,7 +21,7 @@
    <testCaseLink>
       <guid>f84566b6-f49d-4ccd-8833-5c42d450ce50</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/POC/ScriptModeDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -30,5 +30,12 @@
          <value></value>
          <variableId>3edc19a9-c267-4c0d-a142-59dbab468bf1</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44ffee7d-8807-4805-9e99-168698287cca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POC/Express_Local</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
