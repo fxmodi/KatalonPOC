@@ -25,5 +25,3 @@ WebUI.click(findTestObject('Object Repository/Page_Online Shopping site in India
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon.in Amazon Fresh/button_1996-2024, Amazon.com, Inc. or its a_570df3'))
 
-WebUI.closeBrowser()
-
